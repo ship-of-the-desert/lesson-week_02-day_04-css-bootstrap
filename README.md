@@ -350,6 +350,17 @@ Bootstrap demonstrates good practices in terms of exemplifying class-based CSS a
 Be aware that critical users of the web know what bootstrap looks like; it’s all over the place! If you’re making a serious project or portfolio work, add some of your own stylings to stand out!
 
 
+## Independent Study
+
+1. [Materialize](https://materializecss.com/getting-started.html), [Bootswatch](https://bootswatch.com/)
+2. Modals
+3. Popovers, Dropdowns
+4. Carousels
+5. Responsive Nav Bars
+6. Forms
+7. Card
+8. Progress Bar, Tooltip
+
 ## Additional Resources
 
 - [Foundation](http://foundation.zurb.com/) - another CSS-library, similar to Bootstrap
